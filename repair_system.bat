@@ -1,31 +1,55 @@
 @echo off
-echo ===================================================
-echo     REPARADOR DE SISTEMA EAGLES TRANSPORTES
-echo ===================================================
+title Reparador de Sistema Eagles (v5.0 - Ultimate)
+color 0E
+
+echo ===============================================
+echo      REPARADOR DE SISTEMA EAGLES (v5.0)
+echo ===============================================
 echo.
-echo [1/4] Parando processos antigos (Python/Node)...
-taskkill /F /IM python.exe /T 2>nul
-taskkill /F /IM node.exe /T 2>nul
-taskkill /F /IM uvicorn.exe /T 2>nul
-echo Processos limpos.
+echo Identificado problema de ambiente Python.
+echo Corrigindo instalacao de pacotes...
 echo.
 
-echo [2/4] Configurando Firewall (Abrindo portas 8000 e 5173)...
+echo [INFO] Versao do Python em uso:
+python --version
+where python
+echo.
+
+echo [1/4] Instalando bibliotecas no Python CORRETO...
+:: O segredo e usar 'python -m pip' em vez de apenas 'pip'
+python -m pip install --upgrade pip
+python -m pip install validate-docbr
+python -m pip install uvicorn
+python -m pip install -r requirements.txt
+
+if %errorlevel% neq 0 (
+    echo.
+    echo [ERRO] Falha ao instalar bibliotecas.
+    echo Verifique se o Python esta instalado corretamente.
+    pause
+    exit /b
+)
+
+echo.
+echo [2/4] Configurando Firewall...
 powershell -Command "New-NetFirewallRule -DisplayName 'Eagles Backend' -Direction Inbound -LocalPort 8000 -Protocol TCP -Action Allow -Profile Any -Force" 2>nul
 powershell -Command "New-NetFirewallRule -DisplayName 'Eagles Frontend' -Direction Inbound -LocalPort 5173 -Protocol TCP -Action Allow -Profile Any -Force" 2>nul
-echo Firewall configurado.
-echo.
-
-echo [3/4] Iniciando Backend...
-start "Eagles Backend" cmd /k "cd backend && python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000"
-
-echo [4/4] Iniciando Frontend...
-start "Eagles Frontend" cmd /k "cd frontend && npm run dev -- --host"
 
 echo.
-echo ===================================================
-echo   SISTEMA REINICIADO COM SUCESSO!
-echo   Acesse: http://localhost:5173
-echo   Ou pelo IP da rede (ex: 192.168.x.x:5173)
-echo ===================================================
-pause
+echo [3/4] Consertando Frontend...
+cd frontend
+if not exist "node_modules" (
+    echo Instalando dependencias do Frontend...
+    call npm install
+)
+cd ..
+
+echo.
+echo ===============================================
+echo      REPARO CONCLUIDO!
+echo ===============================================
+echo.
+echo Agora deve funcionar. Iniciando...
+timeout /t 3 >nul
+
+call start_system.bat
