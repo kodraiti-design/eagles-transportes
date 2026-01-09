@@ -1,0 +1,1371 @@
+2026-01-08 17:33:57.494800: ---/stats called---
+2026-01-08 17:33:57.558548: Analytics freights found: 5
+2026-01-08 17:33:57.562991: Freight 1: Origin='CURITIBA - PR' Driver='Paulo Kodrai' Vehicle='Fiorino'
+2026-01-08 17:33:57.563950: Freight 2: Origin='CURITIBA - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:33:57.564606: Freight 3: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:33:57.566039: Freight 5: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Roberson Lopes Castilho ' Vehicle='Truck'
+2026-01-08 17:33:57.566719: Freight 6: Origin='SAO GONCALO - RJ' Driver='None' Vehicle='None'
+2026-01-08 17:33:57.573368: ---/stats called---
+2026-01-08 17:33:57.580338: Analytics freights found: 5
+2026-01-08 17:33:57.582379: Freight 1: Origin='CURITIBA - PR' Driver='Paulo Kodrai' Vehicle='Fiorino'
+2026-01-08 17:33:57.583692: Freight 2: Origin='CURITIBA - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:33:57.584142: Freight 3: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:33:57.585208: Freight 5: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Roberson Lopes Castilho ' Vehicle='Truck'
+2026-01-08 17:33:57.585821: Freight 6: Origin='SAO GONCALO - RJ' Driver='None' Vehicle='None'
+2026-01-08 17:34:02.440975: ---/stats called---
+2026-01-08 17:34:02.452426: Analytics freights found: 5
+2026-01-08 17:34:02.453949: Freight 1: Origin='CURITIBA - PR' Driver='Paulo Kodrai' Vehicle='Fiorino'
+2026-01-08 17:34:02.455506: Freight 2: Origin='CURITIBA - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:34:02.456315: Freight 3: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:34:02.457828: Freight 5: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Roberson Lopes Castilho ' Vehicle='Truck'
+2026-01-08 17:34:02.458261: Freight 6: Origin='SAO GONCALO - RJ' Driver='None' Vehicle='None'
+2026-01-08 17:34:02.462162: ---/stats called---
+2026-01-08 17:34:02.471563: Analytics freights found: 5
+2026-01-08 17:34:02.473649: Freight 1: Origin='CURITIBA - PR' Driver='Paulo Kodrai' Vehicle='Fiorino'
+2026-01-08 17:34:02.474871: Freight 2: Origin='CURITIBA - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:34:02.475325: Freight 3: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Marcelo Kodrai' Vehicle='BITREM'
+2026-01-08 17:34:02.476751: Freight 5: Origin='SAO JOSE DOS PINHAIS - PR' Driver='Roberson Lopes Castilho ' Vehicle='Truck'
+2026-01-08 17:34:02.477766: Freight 6: Origin='SAO GONCALO - RJ' Driver='None' Vehicle='None'
+2026-01-08 17:34:06.142285: Drilldown for type=vehicle value=Fiorino. Found 5 candidates.
+2026-01-08 17:34:09.046882: Drilldown for type=vehicle value=BITREM. Found 5 candidates.
+2026-01-08 17:34:15.265447: Drilldown for type=vehicle value=Sem Veículo. Found 5 candidates.
+2026-01-08 17:35:38.139332: Drilldown for type=vehicle value=Truck. Found 5 candidates.
+2026-01-08 17:38:38.935961: ---/stats called---
+2026-01-08 17:38:38.993394: Analytics loop start. Count: 5
+2026-01-08 17:38:38.993816: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:38:38.994399: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:38:38.994826: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:38:38.995437: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:38:38.996050: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:38:38.996427: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:38:39.006241: ---/stats called---
+2026-01-08 17:38:39.013068: Analytics loop start. Count: 5
+2026-01-08 17:38:39.013477: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:38:39.013860: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:38:39.014241: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:38:39.014635: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:38:39.014990: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:38:39.015483: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:38:43.488907: Drilldown for type=vehicle value=Fiorino. Found 5 candidates.
+2026-01-08 17:39:03.608677: ---/stats called---
+2026-01-08 17:39:03.652986: Analytics loop start. Count: 5
+2026-01-08 17:39:03.653493: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:03.653932: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:03.654442: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:03.654853: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:03.655248: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:39:03.655666: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:39:03.664488: ---/stats called---
+2026-01-08 17:39:03.670873: Analytics loop start. Count: 5
+2026-01-08 17:39:03.671777: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:03.672246: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:03.672634: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:03.673001: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:03.673399: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:39:03.673844: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:39:03.995524: ---/stats called---
+2026-01-08 17:39:04.005142: Analytics loop start. Count: 5
+2026-01-08 17:39:04.006053: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:04.006863: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:04.007735: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:04.008364: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:04.008806: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:39:04.009278: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:39:04.016029: ---/stats called---
+2026-01-08 17:39:04.023275: Analytics loop start. Count: 5
+2026-01-08 17:39:04.023819: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:04.024353: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:39:04.025012: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:04.025625: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:39:04.026315: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:39:04.026987: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:39:10.937523: Drilldown for type=vehicle value=Fiorino. Found 5 candidates.
+2026-01-08 17:59:24.468962: ---/stats called---
+2026-01-08 17:59:24.482130: Analytics loop start. Count: 5
+2026-01-08 17:59:24.482945: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:59:24.483575: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:59:24.484185: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:59:24.484547: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:59:24.485172: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:59:24.486135: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:59:24.494944: ---/stats called---
+2026-01-08 17:59:24.502955: Analytics loop start. Count: 5
+2026-01-08 17:59:24.503519: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 17:59:24.503952: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 17:59:24.504385: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:59:24.504912: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 17:59:24.505859: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 17:59:24.506526: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 17:59:31.398142: Drilldown for type=vehicle value=Fiorino. Found 5 candidates.
+2026-01-08 18:00:33.701002: ---/stats called---
+2026-01-08 18:00:33.711455: Analytics loop start. Count: 5
+2026-01-08 18:00:33.712492: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:00:33.713289: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:00:33.714117: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:00:33.714541: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:00:33.715183: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:00:33.715888: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:00:33.724445: ---/stats called---
+2026-01-08 18:00:33.732751: Analytics loop start. Count: 5
+2026-01-08 18:00:33.733193: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:00:33.733638: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:00:33.734088: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:00:33.734875: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:00:33.735692: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:00:33.736391: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:17.757392: ---/stats called---
+2026-01-08 18:04:17.808123: Analytics loop start. Count: 5
+2026-01-08 18:04:17.809073: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.809778: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.810937: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.811766: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.812701: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:04:17.813476: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:17.820649: ---/stats called---
+2026-01-08 18:04:17.834053: ---/stats called---
+2026-01-08 18:04:17.835714: Analytics loop start. Count: 5
+2026-01-08 18:04:17.838150: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.840235: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.843364: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.843946: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.844089: Analytics loop start. Count: 5
+2026-01-08 18:04:17.844493: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.844922: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:04:17.844986: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.845586: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.846328: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:17.846205: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.849799: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:04:17.850636: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:17.860355: ---/stats called---
+2026-01-08 18:04:17.869426: Analytics loop start. Count: 5
+2026-01-08 18:04:17.870164: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.870826: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:17.871527: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.872096: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:17.872508: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:04:17.872983: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:18.565243: ---/stats called---
+2026-01-08 18:04:18.574609: Analytics loop start. Count: 5
+2026-01-08 18:04:18.575416: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:18.576186: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:18.576982: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:18.577945: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:18.579497: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:04:18.580351: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:18.590922: ---/stats called---
+2026-01-08 18:04:18.601710: Analytics loop start. Count: 5
+2026-01-08 18:04:18.602666: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:18.603425: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:04:18.604163: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:18.604910: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:04:18.605358: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:04:18.605879: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:04:20.659231: Drilldown for type=state value=PR. Found 5 candidates.
+2026-01-08 18:04:23.923050: Drilldown for type=kpi value=active. Found 5 candidates.
+2026-01-08 18:04:27.214471: Drilldown for type=kpi value=today. Found 5 candidates.
+2026-01-08 18:04:29.611274: Drilldown for type=kpi value=delayed. Found 5 candidates.
+2026-01-08 18:04:34.044856: Drilldown for type=kpi value=active. Found 5 candidates.
+2026-01-08 18:05:12.819106: Drilldown for type=state value=PR. Found 5 candidates.
+2026-01-08 18:05:15.806009: Drilldown for type=state value=RJ. Found 5 candidates.
+2026-01-08 18:05:20.590232: Drilldown for type=kpi value=active. Found 5 candidates.
+2026-01-08 18:05:23.029298: Drilldown for type=kpi value=today. Found 5 candidates.
+2026-01-08 18:05:26.741649: Drilldown for type=kpi value=active. Found 5 candidates.
+2026-01-08 18:05:30.012393: Drilldown for type=kpi value=delayed. Found 5 candidates.
+2026-01-08 18:05:55.375604: ---/stats called---
+2026-01-08 18:05:55.386159: Analytics loop start. Count: 5
+2026-01-08 18:05:55.387987: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:05:55.389719: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:05:55.390817: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:05:55.391659: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:05:55.392675: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:05:55.393807: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:05:55.403467: ---/stats called---
+2026-01-08 18:05:55.415337: Analytics loop start. Count: 5
+2026-01-08 18:05:55.416141: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 18:05:55.417087: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 18:05:55.418871: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:05:55.419662: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 18:05:55.421018: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 18:05:55.422210: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 18:05:57.771730: Drilldown for type=vehicle value=Sem Veículo. Found 5 candidates.
+2026-01-08 21:24:33.287426: ---/stats called---
+2026-01-08 21:24:33.338141: Analytics loop start. Count: 5
+2026-01-08 21:24:33.338779: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:33.339526: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:33.339949: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:33.340366: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:33.340867: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:24:33.341323: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:24:33.357496: ---/stats called---
+2026-01-08 21:24:33.369168: Analytics loop start. Count: 5
+2026-01-08 21:24:33.370186: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:33.370565: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:33.371163: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:33.371659: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:33.372250: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:24:33.374497: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:24:40.493028: ---/stats called---
+2026-01-08 21:24:40.505547: Analytics loop start. Count: 5
+2026-01-08 21:24:40.506255: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:40.506612: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:40.507559: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:40.508014: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:40.508495: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:24:40.508873: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:24:40.518544: ---/stats called---
+2026-01-08 21:24:40.526503: Analytics loop start. Count: 5
+2026-01-08 21:24:40.527082: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:40.527729: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:24:40.528339: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:40.528785: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:24:40.529293: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:24:40.529748: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:24:47.152946: Drilldown for type=kpi value=delayed. Found 5 candidates.
+2026-01-08 21:25:04.663125: Drilldown for type=vehicle value=Fiorino. Found 5 candidates.
+2026-01-08 21:25:08.745647: Drilldown for type=vehicle value=BITREM. Found 5 candidates.
+2026-01-08 21:27:01.738424: ---/stats called---
+2026-01-08 21:27:01.758655: Analytics loop start. Count: 5
+2026-01-08 21:27:01.761133: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:27:01.762217: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:27:01.765233: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:27:01.767028: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:27:01.773579: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:27:01.775285: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:27:01.806757: ---/stats called---
+2026-01-08 21:27:01.837536: Analytics loop start. Count: 5
+2026-01-08 21:27:01.841292: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:27:01.842505: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:27:01.845845: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:27:01.846975: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:27:01.849470: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:27:01.851299: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:28:30.320637: ---/stats called---
+2026-01-08 21:28:30.329582: Analytics loop start. Count: 5
+2026-01-08 21:28:30.330321: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:30.331095: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:30.331874: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:30.332706: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:30.333336: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:28:30.333729: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:28:30.345118: ---/stats called---
+2026-01-08 21:28:30.353118: Analytics loop start. Count: 5
+2026-01-08 21:28:30.353462: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:30.353846: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:30.354481: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:30.355109: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:30.355530: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:28:30.356233: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:28:57.853272: ---/stats called---
+2026-01-08 21:28:57.860569: Analytics loop start. Count: 5
+2026-01-08 21:28:57.861154: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:57.861944: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:57.862606: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:57.863060: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:57.863882: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:28:57.864402: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:28:57.873092: ---/stats called---
+2026-01-08 21:28:57.883630: Analytics loop start. Count: 5
+2026-01-08 21:28:57.884161: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:57.884579: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:28:57.884935: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:57.885634: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:28:57.886410: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:28:57.887043: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:29:05.807663: ---/stats called---
+2026-01-08 21:29:05.879339: Analytics loop start. Count: 5
+2026-01-08 21:29:05.887155: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:29:05.896877: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:29:05.900463: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:29:05.905157: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:29:05.906038: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:29:05.907014: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:29:05.936009: ---/stats called---
+2026-01-08 21:29:05.970113: Analytics loop start. Count: 5
+2026-01-08 21:29:05.973809: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:29:05.976823: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:29:05.978166: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:29:05.979225: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:29:05.981004: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:29:05.982223: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:29:09.319660: Drilldown for type=kpi value=delayed. Found 5 candidates.
+2026-01-08 21:29:16.462338: Drilldown for type=kpi value=active. Found 5 candidates.
+2026-01-08 21:29:35.003883: Drilldown for type=kpi value=today. Found 5 candidates.
+2026-01-08 21:29:50.086504: Drilldown for type=kpi value=delayed. Found 5 candidates.
+2026-01-08 21:30:03.823253: Drilldown for type=kpi value=active. Found 5 candidates.
+2026-01-08 21:30:42.700039: ---/stats called---
+2026-01-08 21:30:42.710429: Analytics loop start. Count: 5
+2026-01-08 21:30:42.711129: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:30:42.711769: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:30:42.712348: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:30:42.712989: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:30:42.713871: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:30:42.714494: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:30:42.724314: ---/stats called---
+2026-01-08 21:30:42.733313: Analytics loop start. Count: 5
+2026-01-08 21:30:42.734072: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:30:42.734784: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:30:42.735300: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:30:42.735596: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:30:42.736192: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:30:42.736830: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:33:54.999381: ---/stats called---
+2026-01-08 21:33:55.008390: Analytics loop start. Count: 5
+2026-01-08 21:33:55.009038: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:33:55.009781: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:33:55.010617: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:33:55.011282: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:33:55.011839: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:33:55.012341: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:33:55.019872: ---/stats called---
+2026-01-08 21:33:55.030994: Analytics loop start. Count: 5
+2026-01-08 21:33:55.031631: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:33:55.032433: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:33:55.033116: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:33:55.033661: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:33:55.034599: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:33:55.034978: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:35:32.278756: ---/stats called---
+2026-01-08 21:35:32.287016: Analytics loop start. Count: 5
+2026-01-08 21:35:32.287740: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:35:32.288323: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:35:32.288673: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:35:32.289223: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:35:32.289743: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:35:32.290365: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:35:32.298905: ---/stats called---
+2026-01-08 21:35:32.306764: Analytics loop start. Count: 5
+2026-01-08 21:35:32.307525: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:35:32.308287: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:35:32.308928: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:35:32.309670: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:35:32.310384: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:35:32.310899: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:38:33.673302: ---/stats called---
+2026-01-08 21:38:33.778067: Analytics loop start. Count: 5
+2026-01-08 21:38:33.779372: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:38:33.780683: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:38:33.781900: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:38:33.783186: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:38:33.784424: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:38:33.785650: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:38:33.813495: ---/stats called---
+2026-01-08 21:38:33.835142: Analytics loop start. Count: 5
+2026-01-08 21:38:33.836575: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:38:33.838613: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:38:33.839834: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:38:33.841201: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:38:33.842371: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:38:33.843881: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:39:15.198343: ---/stats called---
+2026-01-08 21:39:15.254007: Analytics loop start. Count: 5
+2026-01-08 21:39:15.255172: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:15.257111: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:15.258544: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:15.260360: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:15.265082: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:39:15.266567: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:39:15.282233: ---/stats called---
+2026-01-08 21:39:15.299231: Analytics loop start. Count: 5
+2026-01-08 21:39:15.300351: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:15.301331: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:15.302198: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:15.303341: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:15.304182: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:39:15.305171: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:39:31.953387: ---/stats called---
+2026-01-08 21:39:31.972531: Analytics loop start. Count: 5
+2026-01-08 21:39:31.973616: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:31.974870: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:31.976126: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:31.977725: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:31.979073: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:39:31.980027: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:39:31.995705: ---/stats called---
+2026-01-08 21:39:32.012287: Analytics loop start. Count: 5
+2026-01-08 21:39:32.013545: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:32.015188: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:39:32.016382: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:32.017595: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:39:32.019152: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:39:32.020251: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:43:10.089630: ---/stats called---
+2026-01-08 21:43:10.100841: Analytics loop start. Count: 5
+2026-01-08 21:43:10.101707: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:43:10.102343: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:43:10.102895: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:43:10.103707: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:43:10.104471: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:43:10.105065: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:43:10.115732: ---/stats called---
+2026-01-08 21:43:10.122624: Analytics loop start. Count: 5
+2026-01-08 21:43:10.123070: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:43:10.123725: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:43:10.124140: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:43:10.124475: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:43:10.124795: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:43:10.125097: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:43:21.354653: Drilldown for type=state value=PR. Found 5 candidates.
+2026-01-08 21:43:23.680038: Drilldown for type=state value=RJ. Found 5 candidates.
+2026-01-08 21:43:25.483342: Drilldown for type=vehicle value=Truck. Found 5 candidates.
+2026-01-08 21:49:28.187623: ---/stats called---
+2026-01-08 21:49:28.201421: Analytics loop start. Count: 5
+2026-01-08 21:49:28.202218: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:28.203043: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:28.204060: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:28.204669: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:28.205245: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:49:28.205879: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:49:28.216254: ---/stats called---
+2026-01-08 21:49:28.225856: Analytics loop start. Count: 5
+2026-01-08 21:49:28.226652: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:28.227233: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:28.227936: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:28.228487: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:28.229103: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:49:28.229434: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:49:30.097627: Drilldown for type=state value=PR. Found 5 candidates.
+2026-01-08 21:49:44.796879: ---/stats called---
+2026-01-08 21:49:44.806160: Analytics loop start. Count: 5
+2026-01-08 21:49:44.806768: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:44.807190: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:44.807702: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:44.808408: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:44.808746: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:49:44.809346: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:49:44.817852: ---/stats called---
+2026-01-08 21:49:44.827313: Analytics loop start. Count: 5
+2026-01-08 21:49:44.827987: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:44.828840: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:49:44.829458: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:44.830064: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:49:44.830613: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:49:44.831126: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:50:17.821335: ---/stats called---
+2026-01-08 21:50:17.833332: Analytics loop start. Count: 5
+2026-01-08 21:50:17.833929: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:17.834294: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:17.834850: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:17.835406: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:17.835794: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:17.836507: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:50:17.844882: ---/stats called---
+2026-01-08 21:50:17.855193: Analytics loop start. Count: 5
+2026-01-08 21:50:17.855905: Freight 1 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:17.856496: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:17.857355: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:17.857769: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:17.858195: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:17.858876: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 21:50:29.605343: ---/stats called---
+2026-01-08 21:50:29.615052: Analytics loop start. Count: 4
+2026-01-08 21:50:29.616025: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:29.616582: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:29.617125: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:29.617657: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:29.618094: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:29.625855: ---/stats called---
+2026-01-08 21:50:29.636155: Analytics loop start. Count: 4
+2026-01-08 21:50:29.636949: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:29.637618: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:29.638269: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:29.638614: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:29.638945: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:30.487335: ---/stats called---
+2026-01-08 21:50:30.496221: Analytics loop start. Count: 4
+2026-01-08 21:50:30.496860: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:30.497739: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:30.498407: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:30.498887: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:30.499413: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:30.506849: ---/stats called---
+2026-01-08 21:50:30.515612: Analytics loop start. Count: 4
+2026-01-08 21:50:30.516280: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:30.517127: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:30.517660: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:30.518406: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:30.518995: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:31.160635: ---/stats called---
+2026-01-08 21:50:31.171592: Analytics loop start. Count: 4
+2026-01-08 21:50:31.172021: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:31.172405: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:31.172723: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:31.173162: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:31.173603: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:31.180985: ---/stats called---
+2026-01-08 21:50:31.191984: Analytics loop start. Count: 4
+2026-01-08 21:50:31.192610: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:31.193380: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:31.194035: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:31.194616: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:31.195100: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:32.170451: ---/stats called---
+2026-01-08 21:50:32.185470: Analytics loop start. Count: 4
+2026-01-08 21:50:32.186786: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:32.188019: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:32.189027: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:32.190017: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:32.191123: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:32.202040: ---/stats called---
+2026-01-08 21:50:32.213593: Analytics loop start. Count: 4
+2026-01-08 21:50:32.214239: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:32.214978: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:32.215313: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:32.215749: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:32.216281: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:35.339185: ---/stats called---
+2026-01-08 21:50:35.356015: Analytics loop start. Count: 4
+2026-01-08 21:50:35.358056: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:35.361520: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:35.362837: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:35.364502: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:35.365699: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:35.379397: ---/stats called---
+2026-01-08 21:50:35.396316: Analytics loop start. Count: 4
+2026-01-08 21:50:35.398081: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:35.398958: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:35.401705: Freight 5 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:35.403275: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:35.404298: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 21:50:46.553593: ---/stats called---
+2026-01-08 21:50:46.562506: Analytics loop start. Count: 3
+2026-01-08 21:50:46.562878: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:46.563113: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:46.563914: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:46.564245: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:50:46.571289: ---/stats called---
+2026-01-08 21:50:46.581172: Analytics loop start. Count: 3
+2026-01-08 21:50:46.581876: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:46.582550: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:46.583258: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:46.583680: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:50:47.187565: ---/stats called---
+2026-01-08 21:50:47.196507: Analytics loop start. Count: 3
+2026-01-08 21:50:47.197009: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:47.197452: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:47.198387: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:47.198930: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:50:47.205640: ---/stats called---
+2026-01-08 21:50:47.215508: Analytics loop start. Count: 3
+2026-01-08 21:50:47.215986: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:50:47.216397: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:50:47.216720: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:50:47.217000: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:50:54.066203: Drilldown for type=kpi value=active. Found 3 candidates.
+2026-01-08 21:50:56.356146: Drilldown for type=kpi value=today. Found 3 candidates.
+2026-01-08 21:51:00.691343: Drilldown for type=kpi value=today. Found 3 candidates.
+2026-01-08 21:51:02.864809: ---/stats called---
+2026-01-08 21:51:02.873904: Analytics loop start. Count: 3
+2026-01-08 21:51:02.874484: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:02.874949: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:02.875558: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:02.876045: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:02.883661: ---/stats called---
+2026-01-08 21:51:02.891682: Analytics loop start. Count: 3
+2026-01-08 21:51:02.892391: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:02.893257: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:02.893953: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:02.894482: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:03.476937: ---/stats called---
+2026-01-08 21:51:03.490553: Analytics loop start. Count: 3
+2026-01-08 21:51:03.490968: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:03.491460: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:03.492320: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:03.493109: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:03.501003: ---/stats called---
+2026-01-08 21:51:03.512095: Analytics loop start. Count: 3
+2026-01-08 21:51:03.512722: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:03.513237: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:03.513673: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:03.514346: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:03.803847: ---/stats called---
+2026-01-08 21:51:03.812428: Analytics loop start. Count: 3
+2026-01-08 21:51:03.813133: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:03.813615: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:03.814113: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:03.814426: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:03.822315: ---/stats called---
+2026-01-08 21:51:03.831238: Analytics loop start. Count: 3
+2026-01-08 21:51:03.831944: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:03.832512: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:03.833685: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:03.834467: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:04.088085: ---/stats called---
+2026-01-08 21:51:04.096083: Analytics loop start. Count: 3
+2026-01-08 21:51:04.097974: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:04.098737: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:04.099212: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:04.099794: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:04.107588: ---/stats called---
+2026-01-08 21:51:04.119906: Analytics loop start. Count: 3
+2026-01-08 21:51:04.122577: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:51:04.123197: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:51:04.123615: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:51:04.124049: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:51:04.593848: Drilldown for type=kpi value=today. Found 3 candidates.
+2026-01-08 21:51:40.925210: Drilldown for type=kpi value=today. Found 3 candidates.
+2026-01-08 21:51:43.240086: Drilldown for type=kpi value=today. Found 3 candidates.
+2026-01-08 21:52:14.687539: ---/stats called---
+2026-01-08 21:52:14.709391: Analytics loop start. Count: 3
+2026-01-08 21:52:14.710698: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:52:14.712247: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:52:14.713330: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:52:14.715558: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:52:14.735258: ---/stats called---
+2026-01-08 21:52:14.758281: Analytics loop start. Count: 3
+2026-01-08 21:52:14.759506: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:52:14.760798: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:52:14.762629: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:52:14.764962: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:52:25.481254: ---/stats called---
+2026-01-08 21:52:25.499998: Analytics loop start. Count: 3
+2026-01-08 21:52:25.501346: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:52:25.502415: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:52:25.503459: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:52:25.504551: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:52:25.516594: ---/stats called---
+2026-01-08 21:52:25.530987: Analytics loop start. Count: 3
+2026-01-08 21:52:25.532535: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:52:25.533740: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:52:25.534953: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:52:25.536574: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:52:53.806382: ---/stats called---
+2026-01-08 21:52:53.840608: Analytics loop start. Count: 3
+2026-01-08 21:52:53.841349: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:52:53.842338: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:52:53.843000: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:52:53.843374: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:52:53.853024: ---/stats called---
+2026-01-08 21:52:53.863076: Analytics loop start. Count: 3
+2026-01-08 21:52:53.863831: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:52:53.864554: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:52:53.865085: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:52:53.865518: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:52:55.137042: Drilldown for type=kpi value=today. Found 3 candidates.
+2026-01-08 21:53:02.655934: Drilldown for type=kpi value=active. Found 3 candidates.
+2026-01-08 21:53:04.306444: Drilldown for type=kpi value=delayed. Found 3 candidates.
+2026-01-08 21:53:19.240588: ---/stats called---
+2026-01-08 21:53:19.251262: Analytics loop start. Count: 3
+2026-01-08 21:53:19.251685: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:53:19.252093: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:53:19.252566: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:53:19.252906: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:53:19.259967: ---/stats called---
+2026-01-08 21:53:19.269242: Analytics loop start. Count: 3
+2026-01-08 21:53:19.269667: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:53:19.270161: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:53:19.270504: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:53:19.270894: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:53:51.936116: ---/stats called---
+2026-01-08 21:53:51.989386: Analytics loop start. Count: 3
+2026-01-08 21:53:51.990851: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:53:51.991445: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:53:51.992011: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:53:51.992775: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:53:52.003681: ---/stats called---
+2026-01-08 21:53:52.013345: Analytics loop start. Count: 3
+2026-01-08 21:53:52.013859: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:53:52.014288: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:53:52.014699: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:53:52.015035: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:53:52.452126: ---/stats called---
+2026-01-08 21:53:52.471316: Analytics loop start. Count: 3
+2026-01-08 21:53:52.472717: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:53:52.473757: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:53:52.474699: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:53:52.476244: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:53:52.492019: ---/stats called---
+2026-01-08 21:53:52.517587: Analytics loop start. Count: 3
+2026-01-08 21:53:52.519430: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:53:52.521614: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:53:52.523657: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:53:52.524897: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:53:55.178534: Drilldown for type=kpi value=active. Found 3 candidates.
+2026-01-08 21:58:28.013993: ---/stats called---
+2026-01-08 21:58:28.117471: Analytics loop start. Count: 3
+2026-01-08 21:58:28.118868: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:58:28.120598: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:58:28.122447: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:58:28.123464: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 21:58:28.138984: ---/stats called---
+2026-01-08 21:58:28.155515: Analytics loop start. Count: 3
+2026-01-08 21:58:28.156754: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 21:58:28.157929: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 21:58:28.159026: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 21:58:28.160361: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 22:06:25.720172: ---/stats called---
+2026-01-08 22:06:25.803366: Analytics loop start. Count: 3
+2026-01-08 22:06:25.805218: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 22:06:25.806328: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 22:06:25.807260: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 22:06:25.808255: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 22:06:25.830350: ---/stats called---
+2026-01-08 22:06:25.851397: Analytics loop start. Count: 3
+2026-01-08 22:06:25.853144: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 22:06:25.854390: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 22:06:25.855629: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 22:06:25.857105: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 22:16:42.739874: ---/stats called---
+2026-01-08 22:16:42.758926: Analytics loop start. Count: 3
+2026-01-08 22:16:42.760800: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 22:16:42.762605: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 22:16:42.763912: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 22:16:42.764996: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 22:16:42.779528: ---/stats called---
+2026-01-08 22:16:42.796620: Analytics loop start. Count: 3
+2026-01-08 22:16:42.797889: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 22:16:42.798945: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 22:16:42.800354: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 22:16:42.802740: Final State Counts: {'PR': 2, 'RJ': 1}
+2026-01-08 23:01:35.010368: ---/stats called---
+2026-01-08 23:01:35.062605: Analytics loop start. Count: 4
+2026-01-08 23:01:35.063338: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:01:35.063947: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:01:35.064466: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:01:35.065050: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:01:35.065453: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 23:01:35.072554: ---/stats called---
+2026-01-08 23:01:35.079983: Analytics loop start. Count: 4
+2026-01-08 23:01:35.080753: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:01:35.081124: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:01:35.081892: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:01:35.082456: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:01:35.083437: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 23:08:45.071574: ---/stats called---
+2026-01-08 23:08:45.122789: Analytics loop start. Count: 4
+2026-01-08 23:08:45.123648: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:08:45.124461: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:08:45.125421: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:08:45.126171: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:08:45.127404: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 23:08:45.138602: ---/stats called---
+2026-01-08 23:08:45.147735: Analytics loop start. Count: 4
+2026-01-08 23:08:45.148571: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:08:45.148992: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:08:45.149364: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:08:45.149745: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:08:45.150279: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 23:10:19.544446: ---/stats called---
+2026-01-08 23:10:19.555109: Analytics loop start. Count: 4
+2026-01-08 23:10:19.555881: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:10:19.556247: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:10:19.557037: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:10:19.557554: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:10:19.558176: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 23:10:19.565832: ---/stats called---
+2026-01-08 23:10:19.574485: Analytics loop start. Count: 4
+2026-01-08 23:10:19.575137: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:10:19.575760: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:10:19.576308: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:10:19.577084: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:10:19.577949: Final State Counts: {'PR': 3, 'RJ': 1}
+2026-01-08 23:22:47.800184: ---/stats called---
+2026-01-08 23:22:47.808583: Analytics loop start. Count: 5
+2026-01-08 23:22:47.809111: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:22:47.809573: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:22:47.810034: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-08 23:22:47.810433: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:22:47.810841: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:22:47.811200: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 23:22:47.817023: ---/stats called---
+2026-01-08 23:22:47.823013: Analytics loop start. Count: 5
+2026-01-08 23:22:47.823469: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:22:47.823908: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:22:47.824342: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-08 23:22:47.824758: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:22:47.825120: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:22:47.825498: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 23:39:22.848281: ---/stats called---
+2026-01-08 23:39:22.883071: Analytics loop start. Count: 5
+2026-01-08 23:39:22.884145: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:39:22.884970: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:39:22.885653: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-08 23:39:22.886559: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:39:22.887425: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:39:22.888384: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 23:39:22.895182: ---/stats called---
+2026-01-08 23:39:22.904840: Analytics loop start. Count: 5
+2026-01-08 23:39:22.905535: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:39:22.905921: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:39:22.906262: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-08 23:39:22.906619: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:39:22.906952: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:39:22.907277: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 23:54:33.948559: ---/stats called---
+2026-01-08 23:54:33.980901: Analytics loop start. Count: 5
+2026-01-08 23:54:33.981849: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:54:33.982462: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:54:33.983033: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-08 23:54:33.983522: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:54:33.983962: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:54:33.984517: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-08 23:54:33.995702: ---/stats called---
+2026-01-08 23:54:34.006628: Analytics loop start. Count: 5
+2026-01-08 23:54:34.007889: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-08 23:54:34.008262: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-08 23:54:34.008938: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-08 23:54:34.009619: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-08 23:54:34.010271: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-08 23:54:34.010868: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:00:57.639738: ---/stats called---
+2026-01-09 00:00:57.676873: Analytics loop start. Count: 5
+2026-01-09 00:00:57.677740: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:00:57.678432: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:00:57.679156: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:00:57.679692: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:00:57.680284: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:00:57.680668: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:00:57.689362: ---/stats called---
+2026-01-09 00:00:57.697002: Analytics loop start. Count: 5
+2026-01-09 00:00:57.697752: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:00:57.698392: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:00:57.699030: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:00:57.699608: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:00:57.700106: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:00:57.700811: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:17:02.924137: ---/stats called---
+2026-01-09 00:17:02.954149: Analytics loop start. Count: 5
+2026-01-09 00:17:02.954768: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:17:02.955306: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:17:02.955797: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:17:02.956350: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:17:02.957013: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:17:02.957587: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:17:02.970263: ---/stats called---
+2026-01-09 00:17:02.982641: Analytics loop start. Count: 5
+2026-01-09 00:17:02.984583: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:17:02.985849: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:17:02.986793: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:17:02.987738: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:17:02.988768: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:17:02.990323: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:18:34.333248: ---/stats called---
+2026-01-09 00:18:34.356896: Analytics loop start. Count: 5
+2026-01-09 00:18:34.359966: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:34.362929: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:18:34.363397: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:34.364229: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:18:34.364909: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:34.365680: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:18:34.376651: ---/stats called---
+2026-01-09 00:18:34.389211: Analytics loop start. Count: 5
+2026-01-09 00:18:34.390426: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:34.392162: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:18:34.393060: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:34.395754: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:18:34.396897: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:34.398079: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:18:45.424070: ---/stats called---
+2026-01-09 00:18:45.433191: Analytics loop start. Count: 5
+2026-01-09 00:18:45.433649: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:45.434130: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:18:45.434605: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:45.435031: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:18:45.435497: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:45.435988: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 00:18:45.442476: ---/stats called---
+2026-01-09 00:18:45.450256: Analytics loop start. Count: 5
+2026-01-09 00:18:45.450800: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:45.451269: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 00:18:45.451741: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:45.452213: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 00:18:45.452664: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 00:18:45.453167: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:02:01.196689: ---/stats called---
+2026-01-09 08:02:01.203189: Analytics loop start. Count: 5
+2026-01-09 08:02:01.203605: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:02:01.203809: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:02:01.204011: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:02:01.204198: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:02:01.204404: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:02:01.204551: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:02:01.209510: ---/stats called---
+2026-01-09 08:02:01.213322: Analytics loop start. Count: 5
+2026-01-09 08:02:01.213551: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:02:01.213695: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:02:01.213823: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:02:01.214237: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:02:01.215067: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:02:01.215783: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:13:52.082755: ---/stats called---
+2026-01-09 08:13:52.093668: Analytics loop start. Count: 5
+2026-01-09 08:13:52.094818: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:13:52.095476: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:13:52.095919: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:13:52.096729: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:13:52.097451: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:13:52.098048: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:13:52.104393: ---/stats called---
+2026-01-09 08:13:52.114867: Analytics loop start. Count: 5
+2026-01-09 08:13:52.115430: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:13:52.115817: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:13:52.116238: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:13:52.116635: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:13:52.117012: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:13:52.117348: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:15:53.581303: ---/stats called---
+2026-01-09 08:15:53.596961: Analytics loop start. Count: 5
+2026-01-09 08:15:53.597393: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:15:53.598041: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:15:53.598782: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:15:53.599472: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:15:53.600490: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:15:53.601505: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:15:53.608289: ---/stats called---
+2026-01-09 08:15:53.619166: Analytics loop start. Count: 5
+2026-01-09 08:15:53.620170: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:15:53.620724: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:15:53.621157: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:15:53.621564: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:15:53.622001: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:15:53.622412: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:20:10.996425: Drilldown for type=kpi value=delayed. Found 5 candidates.
+2026-01-09 08:20:45.830334: ---/stats called---
+2026-01-09 08:20:45.837864: Analytics loop start. Count: 5
+2026-01-09 08:20:45.838476: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:20:45.839213: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:20:45.840228: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:20:45.841196: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:20:45.841672: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:20:45.842063: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:20:45.849427: ---/stats called---
+2026-01-09 08:20:45.860351: Analytics loop start. Count: 5
+2026-01-09 08:20:45.861458: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:20:45.866125: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:20:45.867286: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:20:45.872296: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:20:45.877301: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:20:45.877813: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:20:54.245850: Drilldown for type=kpi value=today. Found 5 candidates.
+2026-01-09 08:21:12.864920: Drilldown for type=state value=PR. Found 5 candidates.
+2026-01-09 08:26:09.702926: ---/stats called---
+2026-01-09 08:26:09.731215: Analytics loop start. Count: 5
+2026-01-09 08:26:09.732227: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:09.732631: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:26:09.733121: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:09.733552: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:26:09.733943: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:09.734383: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:26:09.743852: ---/stats called---
+2026-01-09 08:26:09.752367: Analytics loop start. Count: 5
+2026-01-09 08:26:09.753245: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:09.753775: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:26:09.754544: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:09.755336: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:26:09.756036: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:09.756694: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:26:43.562957: ---/stats called---
+2026-01-09 08:26:43.573759: Analytics loop start. Count: 5
+2026-01-09 08:26:43.574734: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:43.575437: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:26:43.576209: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:43.577002: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:26:43.577726: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:43.578783: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:26:43.585985: ---/stats called---
+2026-01-09 08:26:43.596383: Analytics loop start. Count: 5
+2026-01-09 08:26:43.597384: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:43.598127: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 08:26:43.598750: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:43.599165: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 08:26:43.599537: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 08:26:43.599892: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 08:56:16.271635: ---/stats called---
+2026-01-09 08:56:17.186826: ---/stats called---
+2026-01-09 08:56:27.623616: ---/stats called---
+2026-01-09 08:56:27.643821: ---/stats called---
+2026-01-09 08:56:29.094292: ---/stats called---
+2026-01-09 08:56:29.114659: ---/stats called---
+2026-01-09 09:01:30.307330: ---/stats called---
+2026-01-09 09:01:30.330143: ---/stats called---
+2026-01-09 09:01:34.737735: ---/stats called---
+2026-01-09 09:01:34.775449: ---/stats called---
+2026-01-09 09:01:35.482329: ---/stats called---
+2026-01-09 09:01:35.593491: ---/stats called---
+2026-01-09 09:14:48.360639: ---/stats called---
+2026-01-09 09:14:48.397086: Analytics loop start. Count: 5
+2026-01-09 09:14:48.397938: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:14:48.398521: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:14:48.398989: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:14:48.399643: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:14:48.400223: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:14:48.400703: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:14:48.416863: ---/stats called---
+2026-01-09 09:14:48.432361: Analytics loop start. Count: 5
+2026-01-09 09:14:48.432990: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:14:48.433824: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:14:48.434713: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:14:48.435439: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:14:48.436155: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:14:48.436818: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:15:55.765182: ---/stats called---
+2026-01-09 09:15:55.774441: Analytics loop start. Count: 5
+2026-01-09 09:15:55.774917: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:55.775675: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:15:55.776158: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:55.776704: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:15:55.777305: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:55.777784: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:15:55.782611: ---/stats called---
+2026-01-09 09:15:55.790467: Analytics loop start. Count: 5
+2026-01-09 09:15:55.790880: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:55.791340: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:15:55.791746: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:55.792186: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:15:55.792914: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:55.793687: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:15:57.884312: ---/stats called---
+2026-01-09 09:15:57.895783: Analytics loop start. Count: 5
+2026-01-09 09:15:57.896445: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:57.896925: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:15:57.897377: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:57.897906: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:15:57.898392: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:57.899022: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:15:57.905369: ---/stats called---
+2026-01-09 09:15:57.913291: Analytics loop start. Count: 5
+2026-01-09 09:15:57.913993: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:57.914434: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:15:57.914809: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:57.915164: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:15:57.915530: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:15:57.915912: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:28:26.691494: ---/stats called---
+2026-01-09 09:28:26.727925: Analytics loop start. Count: 5
+2026-01-09 09:28:26.728473: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:28:26.729052: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:28:26.729699: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:28:26.730085: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:28:26.730609: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:28:26.731025: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:28:26.740990: ---/stats called---
+2026-01-09 09:28:26.751444: Analytics loop start. Count: 5
+2026-01-09 09:28:26.752016: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:28:26.752461: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:28:26.752903: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:28:26.753336: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:28:26.753882: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:28:26.754560: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:48:38.853156: ---/stats called---
+2026-01-09 09:48:38.862120: Analytics loop start. Count: 5
+2026-01-09 09:48:38.862639: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:48:38.863039: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:48:38.863466: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:48:38.863834: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:48:38.864233: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:48:38.864592: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:48:38.871960: ---/stats called---
+2026-01-09 09:48:38.879827: Analytics loop start. Count: 5
+2026-01-09 09:48:38.880348: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:48:38.880809: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:48:38.881308: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:48:38.881858: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:48:38.882418: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:48:38.883154: Final State Counts: {'PR': 4, 'RJ': 1}
+2026-01-09 09:51:33.873968: ---/stats called---
+2026-01-09 09:51:33.886986: Analytics loop start. Count: 6
+2026-01-09 09:51:33.887853: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.888651: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:51:33.889436: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.890046: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:51:33.890518: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.891138: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.891780: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 09:51:33.899890: ---/stats called---
+2026-01-09 09:51:33.911245: Analytics loop start. Count: 6
+2026-01-09 09:51:33.911708: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.912158: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:51:33.912594: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.913041: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:51:33.913494: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.913855: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 09:51:33.914212: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 09:56:19.729798: ---/stats called---
+2026-01-09 09:56:19.765222: Analytics loop start. Count: 6
+2026-01-09 09:56:19.765689: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.766611: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:56:19.767145: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.767601: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:56:19.768411: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.769204: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.769983: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 09:56:19.778575: ---/stats called---
+2026-01-09 09:56:19.791387: Analytics loop start. Count: 6
+2026-01-09 09:56:19.792694: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.793636: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:56:19.794483: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.795828: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:56:19.799173: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.801056: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 09:56:19.802138: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 09:58:11.909463: ---/stats called---
+2026-01-09 09:58:11.919902: Analytics loop start. Count: 6
+2026-01-09 09:58:11.920851: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.921535: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:58:11.922355: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.923087: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:58:11.923584: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.924379: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.925110: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 09:58:11.933409: ---/stats called---
+2026-01-09 09:58:11.944731: Analytics loop start. Count: 6
+2026-01-09 09:58:11.945704: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.946424: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 09:58:11.947178: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.947766: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 09:58:11.948527: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.949048: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 09:58:11.949458: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:07:11.556707: ---/stats called---
+2026-01-09 10:07:11.581968: Analytics loop start. Count: 6
+2026-01-09 10:07:11.583358: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.584353: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:07:11.585523: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.586723: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:07:11.587698: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.588611: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.589837: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:07:11.613761: ---/stats called---
+2026-01-09 10:07:11.631433: Analytics loop start. Count: 6
+2026-01-09 10:07:11.632355: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.632684: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:07:11.632899: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.633040: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:07:11.633160: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.633272: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:07:11.633512: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:11:01.571584: ---/stats called---
+2026-01-09 10:11:01.584928: Analytics loop start. Count: 6
+2026-01-09 10:11:01.585599: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.586043: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:11:01.586706: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.587175: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:11:01.587770: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.588128: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.588468: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:11:01.594285: ---/stats called---
+2026-01-09 10:11:01.603095: Analytics loop start. Count: 6
+2026-01-09 10:11:01.603656: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.604077: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:11:01.604694: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.605123: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:11:01.605531: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.606181: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:11:01.606629: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:16:52.899274: ---/stats called---
+2026-01-09 10:16:52.911260: Analytics loop start. Count: 6
+2026-01-09 10:16:52.912127: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.912984: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:16:52.913913: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.914888: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:16:52.916217: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.917000: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.918202: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:16:52.928511: ---/stats called---
+2026-01-09 10:16:52.940960: Analytics loop start. Count: 6
+2026-01-09 10:16:52.941894: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.942760: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:16:52.943571: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.944431: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:16:52.945324: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.946828: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:16:52.947840: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:19:59.606796: ---/stats called---
+2026-01-09 10:19:59.620200: Analytics loop start. Count: 6
+2026-01-09 10:19:59.621000: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.621800: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:19:59.622655: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.624071: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:19:59.624960: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.625803: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.626499: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:19:59.635098: ---/stats called---
+2026-01-09 10:19:59.668196: Analytics loop start. Count: 6
+2026-01-09 10:19:59.669654: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.670910: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:19:59.672685: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.673542: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:19:59.674383: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.675431: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:19:59.676642: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:20:04.158112: Drilldown for type=kpi value=today. Found 6 candidates.
+2026-01-09 10:20:12.669932: ---/stats called---
+2026-01-09 10:20:12.680454: Analytics loop start. Count: 6
+2026-01-09 10:20:12.681115: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.681675: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:20:12.682281: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.682968: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:20:12.683681: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.684453: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.685220: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:20:12.691723: ---/stats called---
+2026-01-09 10:20:12.701205: Analytics loop start. Count: 6
+2026-01-09 10:20:12.701806: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.702416: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:20:12.703206: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.703840: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:20:12.704239: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.704787: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:20:12.705212: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:39:19.855713: ---/stats called---
+2026-01-09 10:39:19.904962: Analytics loop start. Count: 6
+2026-01-09 10:39:19.905838: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.906581: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:39:19.907268: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.908151: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:39:19.908899: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.909705: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.910849: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:39:19.925478: ---/stats called---
+2026-01-09 10:39:19.937376: Analytics loop start. Count: 6
+2026-01-09 10:39:19.938405: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.939246: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:39:19.940430: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.941195: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:39:19.941979: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.942704: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:39:19.943438: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:46:12.454539: ---/stats called---
+2026-01-09 10:46:12.465766: Analytics loop start. Count: 6
+2026-01-09 10:46:12.467411: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.468526: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:46:12.469186: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.469559: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:46:12.469951: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.470322: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.470807: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:46:12.482106: ---/stats called---
+2026-01-09 10:46:12.497161: Analytics loop start. Count: 6
+2026-01-09 10:46:12.498066: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.498742: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:46:12.499917: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.500721: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:46:12.501190: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.501678: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:46:12.502375: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:50:29.234182: ---/stats called---
+2026-01-09 10:50:29.281034: Analytics loop start. Count: 6
+2026-01-09 10:50:29.282268: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.283242: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:50:29.283881: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.284375: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:50:29.284855: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.285849: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.286593: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:50:29.300836: ---/stats called---
+2026-01-09 10:50:29.312007: Analytics loop start. Count: 6
+2026-01-09 10:50:29.312916: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.313519: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:50:29.313993: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.314404: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:50:29.315134: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.316622: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:50:29.318659: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:55:29.369955: ---/stats called---
+2026-01-09 10:55:29.379747: Analytics loop start. Count: 6
+2026-01-09 10:55:29.380283: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.380653: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:55:29.381028: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.381403: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:55:29.382180: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.383055: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.383730: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:55:29.392525: ---/stats called---
+2026-01-09 10:55:29.400661: Analytics loop start. Count: 6
+2026-01-09 10:55:29.401258: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.402003: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:55:29.402406: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.402909: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:55:29.403749: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.404520: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:55:29.405250: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:56:30.413355: ---/stats called---
+2026-01-09 10:56:30.423666: Analytics loop start. Count: 6
+2026-01-09 10:56:30.424090: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.425448: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:56:30.426095: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.426841: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:56:30.427542: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.428209: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.428876: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:56:30.435736: ---/stats called---
+2026-01-09 10:56:30.446872: Analytics loop start. Count: 6
+2026-01-09 10:56:30.447977: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.448648: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:56:30.449208: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.449784: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:56:30.450307: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.450800: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:30.451651: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:56:51.707827: ---/stats called---
+2026-01-09 10:56:51.718301: Analytics loop start. Count: 6
+2026-01-09 10:56:51.719068: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.719815: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:56:51.720452: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.721296: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:56:51.722125: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.723110: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.723941: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:56:51.733016: ---/stats called---
+2026-01-09 10:56:51.746419: Analytics loop start. Count: 6
+2026-01-09 10:56:51.747292: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.748539: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:56:51.749026: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.749679: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:56:51.750434: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.751245: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:56:51.752137: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:58:07.258635: ---/stats called---
+2026-01-09 10:58:07.276823: Analytics loop start. Count: 6
+2026-01-09 10:58:07.277671: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.278561: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:58:07.279201: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.279830: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:58:07.281877: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.282693: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.283403: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:58:07.292787: ---/stats called---
+2026-01-09 10:58:07.305000: Analytics loop start. Count: 6
+2026-01-09 10:58:07.306436: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.307938: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:58:07.308752: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.309385: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:58:07.310019: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.310555: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:58:07.311146: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:59:05.354670: ---/stats called---
+2026-01-09 10:59:05.363874: Analytics loop start. Count: 6
+2026-01-09 10:59:05.364366: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.364817: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:59:05.365160: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.365525: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:59:05.365900: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.366304: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.366834: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:59:05.373406: ---/stats called---
+2026-01-09 10:59:05.383165: Analytics loop start. Count: 6
+2026-01-09 10:59:05.383715: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.384149: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:59:05.384733: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.385392: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:59:05.386178: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.386912: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:05.387477: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:59:06.029302: ---/stats called---
+2026-01-09 10:59:06.043804: Analytics loop start. Count: 6
+2026-01-09 10:59:06.044482: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.045005: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:59:06.045424: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.045948: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:59:06.046806: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.047596: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.048362: Final State Counts: {'PR': 5, 'RJ': 1}
+2026-01-09 10:59:06.054572: ---/stats called---
+2026-01-09 10:59:06.063927: Analytics loop start. Count: 6
+2026-01-09 10:59:06.064442: Freight 2 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.064997: Freight 3 ('SAO JOSE DOS PINHAIS - PR') -> PR
+2026-01-09 10:59:06.065654: Freight 4 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.066461: Freight 6 ('SAO GONCALO - RJ') -> RJ
+2026-01-09 10:59:06.067295: Freight 7 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.068010: Freight 8 ('CURITIBA - PR') -> PR
+2026-01-09 10:59:06.069159: Final State Counts: {'PR': 5, 'RJ': 1}

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Javascript / Node
+node_modules/
+dist/
+build/
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# System / Backups
+_BACKUPS/
+_BACKUPS_DATA/
+eagles.db
+*.log
+*.tmp
+thumbs.db
+desktop.ini
+
+# Eagles Specific
+uploads/
+traceback_global.log
+traceback.log

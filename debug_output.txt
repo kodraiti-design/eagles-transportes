@@ -1,0 +1,6 @@
+Found 5 freights matching dashboard criteria.
+ID: 1 | Status: DELIVERED | Origin: 'CURITIBA - PR' | Dest: 'pinhais' | VType: 'Fiorino'
+ID: 2 | Status: DELIVERED | Origin: 'CURITIBA - PR' | Dest: 'FLORIANOPOLIS - SC' | VType: 'BITREM'
+ID: 3 | Status: ASSIGNED | Origin: 'SAO JOSE DOS PINHAIS - PR' | Dest: 'SAO PAULO - SP' | VType: 'BITREM'
+ID: 5 | Status: ASSIGNED | Origin: 'SAO JOSE DOS PINHAIS - PR' | Dest: 'CURITIBA - PR' | VType: 'Truck'
+ID: 6 | Status: RECRUITING | Origin: 'SAO GONCALO - RJ' | Dest: 'RIO BRANCO - AC' | VType: 'NO DRIVER'
