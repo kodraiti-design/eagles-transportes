@@ -56,7 +56,7 @@ def seed_data():
     
     # Seed Vehicle Types
     defaults = [
-        "BITREM", "BITRUCK", "CARRETA", "CARRETA LS", "COMPLEMENTO", 
+        "BITREM", "BITRUCK", "CARRETA", "CARRETA LST", "COMPLEMENTO", 
         "FIORINO", "GRANELEIRA", "GUINCHO", "HR", "MUNK", 
         "PLATAFORMA", "PORTA CONTAINERS", "PRANCHA", "RH", 
         "SPRINTER", "TOCO", "TOCO/HR", "TRUCK", "VAN", "VUC"
