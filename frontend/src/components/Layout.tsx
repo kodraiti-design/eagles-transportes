@@ -29,11 +29,13 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
         <div className="flex h-screen bg-slate-100 overflow-hidden">
             {/* Sidebar */}
             <aside className="w-64 bg-eagles-dark text-white shadow-xl flex flex-col">
-                <div className="p-6 border-b border-white/10">
-                    <h1 className="text-2xl font-bold bg-gradient-to-r from-eagles-gold to-yellow-300 bg-clip-text text-transparent">
-                        EAGLES
-                    </h1>
-                    <p className="text-xs text-slate-400 tracking-widest mt-1 mb-4">TRANSPORTES</p>
+                <div className="p-6 border-b border-white/10 flex flex-col items-center">
+                    <img
+                        src="/logo.png"
+                        alt="Eagles Transportes"
+                        className="h-20 w-auto mb-2 object-contain rounded-2xl shadow-lg shadow-black/30"
+                    />
+                    <p className="text-xs text-slate-400 tracking-widest mt-1 mb-4">SISTEMA INTEGRADO</p>
 
                     {user && (
                         <div className="flex items-center space-x-2 bg-white/5 p-2 rounded-lg border border-white/10 overflow-hidden">

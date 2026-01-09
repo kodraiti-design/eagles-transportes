@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Save, RefreshCw, MessageSquare, Info, CreditCard, Lock, Eye, EyeOff, Database, RotateCcw, AlertTriangle, CloudDownload } from 'lucide-react';
+import { Save, RefreshCw, MessageSquare, Info, CreditCard, Lock, Eye, EyeOff, Database, RotateCcw, AlertTriangle, CloudDownload, Image, Upload } from 'lucide-react';
 import { API_URL } from '../utils/api';
 import { useAuth } from '../context/AuthContext';
 
@@ -136,6 +136,42 @@ const Settings = () => {
     // System Update State
     const [isUpdating, setIsUpdating] = useState(false);
 
+    // Logo Upload State
+    const [isUploadingLogo, setIsUploadingLogo] = useState(false);
+
+    const handleLogoUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
+        if (!e.target.files || e.target.files.length === 0) return;
+
+        const file = e.target.files[0];
+        const formData = new FormData();
+        formData.append('file', file);
+
+        setIsUploadingLogo(true);
+        try {
+            const token = sessionStorage.getItem('token');
+            const res = await fetch(`${API_URL}/system/upload-logo`, {
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${token}`
+                },
+                body: formData
+            });
+            const data = await res.json();
+
+            if (data.success) {
+                alert('Logo atualizado com sucesso! A página será recarregada.');
+                window.location.reload();
+            } else {
+                alert('Erro ao atualizar logo: ' + data.message);
+            }
+        } catch (error) {
+            console.error(error);
+            alert('Erro ao enviar arquivo.');
+        } finally {
+            setIsUploadingLogo(false);
+        }
+    };
+
     const handleSystemUpdate = async () => {
         setIsUpdating(true);
         try {
@@ -267,6 +303,54 @@ const Settings = () => {
                     </div>
                 </div>
             </div>
+
+            {/* Logo Customization Section */}
+            {hasPermission('access_settings') && (
+                <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+                    <div className="p-6 border-b border-slate-100 bg-slate-50 flex items-center space-x-3">
+                        <div className="bg-indigo-100 p-2 rounded-lg text-indigo-600">
+                            <Image size={20} />
+                        </div>
+                        <div>
+                            <h2 className="text-lg font-bold text-slate-800">Personalização</h2>
+                            <p className="text-sm text-slate-500">Altere a identidade visual do sistema</p>
+                        </div>
+                    </div>
+                    <div className="p-6 flex items-start gap-8">
+                        <div className="flex-1">
+                            <h3 className="font-bold text-slate-700 mb-2">Logo do Sistema</h3>
+                            <p className="text-sm text-slate-500 mb-4">
+                                Esta imagem será exibida na tela de login e no topo do menu lateral.
+                                Recomenda-se um PNG com fundo transparente ou #1a1f2c.
+                            </p>
+
+                            <div className="flex items-center gap-4">
+                                <label className="cursor-pointer bg-slate-100 hover:bg-slate-200 text-slate-600 px-4 py-2 rounded-lg font-medium transition flex items-center gap-2">
+                                    <Upload size={18} />
+                                    <span>Escolher Arquivo</span>
+                                    <input
+                                        type="file"
+                                        accept="image/*"
+                                        className="hidden"
+                                        onChange={handleLogoUpload}
+                                        disabled={isUploadingLogo}
+                                    />
+                                </label>
+                                {isUploadingLogo && <RefreshCw className="animate-spin text-slate-400" size={20} />}
+                            </div>
+                        </div>
+
+                        <div className="bg-eagles-dark p-6 rounded-xl flex flex-col items-center justify-center w-48 shrink-0 border border-slate-800 shadow-inner">
+                            <span className="text-xs text-slate-500 mb-2 uppercase tracking-wider font-bold">Preview</span>
+                            <img
+                                src={`/logo.png?v=${new Date().getTime()}`}
+                                alt="Logo Preview"
+                                className="h-16 w-auto object-contain rounded-lg shadow-lg"
+                            />
+                        </div>
+                    </div>
+                </div>
+            )}
 
             {/* System Update Section */}
             {hasPermission('access_settings') && (
