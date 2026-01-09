@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 sqlalchemy
 pydantic
 python-multipart
@@ -10,3 +10,4 @@ openpyxl
 pandas
 jinja2
 python-docx
+validate-docbr
